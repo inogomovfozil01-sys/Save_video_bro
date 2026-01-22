@@ -1,0 +1,8 @@
+{
+  "bot_token": "8419848359:AAGWLcWbV3vvZr-OxTv_G3BWKU0TtMJDses",
+  "mandatory_channels": [
+    "@DevZone_IT",
+    "@BMWRIGH"
+  ],
+  "max_file_size_gb": 2
+}
